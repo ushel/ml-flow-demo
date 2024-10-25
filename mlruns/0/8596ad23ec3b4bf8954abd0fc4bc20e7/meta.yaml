@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Projects/ml-flow-demo/mlruns/0/8596ad23ec3b4bf8954abd0fc4bc20e7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8596ad23ec3b4bf8954abd0fc4bc20e7
+run_name: burly-ox-222
+run_uuid: 8596ad23ec3b4bf8954abd0fc4bc20e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729867224381
+status: 1
+tags: []
+user_id: utkar

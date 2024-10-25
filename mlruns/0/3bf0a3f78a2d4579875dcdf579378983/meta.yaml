@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Projects/ml-flow-demo/mlruns/0/3bf0a3f78a2d4579875dcdf579378983/artifacts
+end_time: 1729867650104
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3bf0a3f78a2d4579875dcdf579378983
+run_name: trusting-sloth-150
+run_uuid: 3bf0a3f78a2d4579875dcdf579378983
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729867646741
+status: 3
+tags: []
+user_id: utkar
