@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Projects/ml-flow-demo/mlruns/0/9dc54c8a678247109c60e9aa37714b3d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9dc54c8a678247109c60e9aa37714b3d
+run_name: carefree-newt-266
+run_uuid: 9dc54c8a678247109c60e9aa37714b3d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729877289771
+status: 1
+tags: []
+user_id: utkar

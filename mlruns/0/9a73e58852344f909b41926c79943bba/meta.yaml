@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Projects/ml-flow-demo/mlruns/0/9a73e58852344f909b41926c79943bba/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9a73e58852344f909b41926c79943bba
+run_name: able-colt-348
+run_uuid: 9a73e58852344f909b41926c79943bba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729876467662
+status: 1
+tags: []
+user_id: utkar

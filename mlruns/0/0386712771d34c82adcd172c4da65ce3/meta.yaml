@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Projects/ml-flow-demo/mlruns/0/0386712771d34c82adcd172c4da65ce3/artifacts
+end_time: 1729875594235
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0386712771d34c82adcd172c4da65ce3
+run_name: smiling-mink-12
+run_uuid: 0386712771d34c82adcd172c4da65ce3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729875586900
+status: 3
+tags: []
+user_id: utkar

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Projects/ml-flow-demo/mlruns/0/fe8ddce0217b480090e288160e73b634/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fe8ddce0217b480090e288160e73b634
+run_name: flawless-dove-793
+run_uuid: fe8ddce0217b480090e288160e73b634
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729876808986
+status: 1
+tags: []
+user_id: utkar

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Projects/ml-flow-demo/mlruns/0/aefd94dfc1cd4c7b9395c6a500f8e43a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aefd94dfc1cd4c7b9395c6a500f8e43a
+run_name: resilient-shrike-442
+run_uuid: aefd94dfc1cd4c7b9395c6a500f8e43a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729877236171
+status: 1
+tags: []
+user_id: utkar
